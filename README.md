@@ -20,7 +20,7 @@ Hi 👋! My name is Nabila Rahman and I'm an AI / ML Researcher & Engineering St
 <p align="left">
 🎓 Engineering Technology for Strategy & Security @ University of Genoa <br>
 🤖 AI / ML Researcher with published IEEE conference work <br>
-🌱 Currently learning Applied Reinforcement Learning <br>
+🌱 Currently WORKING ON LLM <br>
 🏆 Hackathon winner & research-focused problem solver <br>
 🌍 Interested in Smart Systems, Security, Sustainability & Social Impact
 </p>
